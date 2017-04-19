@@ -1,0 +1,6 @@
+Child process output:
+p1: x=2
+p2: x=1
+
+Parent process output:
+p2: x=0
